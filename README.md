@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Akihiro Kondo 👋🏼
 
-<!--
-**akkinoc/akkinoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My products are:  
 
-Here are some ideas to get you started:
+* [logback-access-spring-boot-starter](https://github.com/akkinoc/logback-access-spring-boot-starter)
+* [orika-spring-boot-starter](https://github.com/akkinoc/orika-spring-boot-starter)
+* [yaml-resource-bundle](https://github.com/akkinoc/yaml-resource-bundle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope you will find it useful 😃  
+
+[![GitHub Stats Card]][GitHub Readme Stats]
+
+[GitHub Stats Card]: https://github-readme-stats.vercel.app/api?username=akkinoc&theme=darcula&show_icons=true&include_all_commits=true&count_private=true
+[GitHub Readme Stats]: https://github.com/anuraghazra/github-readme-stats
