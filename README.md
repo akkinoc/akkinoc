@@ -8,4 +8,4 @@ My products are:
 
 I hope you will find it useful 😃  
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akkinoc&theme=darcula&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akkinoc&theme=onedark&show_icons=true&include_all_commits=true&count_private=true)
