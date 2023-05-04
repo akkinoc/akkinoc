@@ -13,4 +13,9 @@ My products are:
 
 I hope you will find it useful 😃
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akkinoc&theme=darcula&show_icons=true&count_private=true)
+[![sponsor badge]][sponsor]
+![github stats card]
+
+[sponsor]: https://github.com/sponsors/akkinoc
+[sponsor badge]: https://img.shields.io/static/v1?logo=github&label=sponsor&message=%E2%9D%A4&color=db61a2
+[github stats card]: https://github-readme-stats.vercel.app/api?username=akkinoc&theme=darcula&show_icons=true&count_private=true
