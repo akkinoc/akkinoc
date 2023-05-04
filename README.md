@@ -14,6 +14,7 @@ My products are:
 I hope you will find it useful 😃
 
 [![sponsor badge]][sponsor]
+
 ![github stats card]
 
 [sponsor]: https://github.com/sponsors/akkinoc
